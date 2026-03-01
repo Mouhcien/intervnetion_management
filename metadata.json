@@ -1,0 +1,5 @@
+{
+  "name": "Interventions Management",
+  "description": "A comprehensive system to manage and track interventions, categorized by users, periods, and categories.",
+  "requestFramePermissions": []
+}
